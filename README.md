@@ -1,4 +1,4 @@
-# Welcome to the course!
+# Welcome to the machine learning & deep learning course!
 Short link to this page: http://bit.ly/MLatICL2020
 
 [Open this repo in Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2020)
